@@ -1,4 +1,5 @@
 import * as React from 'react';
+import './index.css';
 
 export interface IProps {
   url: string;
@@ -10,7 +11,7 @@ function Playground({url}: IProps) {
   }
 
   return (
-    <iframe src={url}></iframe>
+    <iframe className="playground-container" src={url} />
   );
 }
 

@@ -9,7 +9,7 @@ class App extends React.Component {
   public render() {
     return (
       <div className="App">
-        <EPeditor title="Hello" />
+        <EPeditor />
         <Playground url={playgroundUrl} />
       </div>
     );

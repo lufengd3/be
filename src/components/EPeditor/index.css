@@ -1,0 +1,16 @@
+.editor-container {
+  background-color: #f8f8f8;
+  width: 25%;
+  padding: 12px;
+}
+
+.conf-group {
+  margin-bottom: 20px;
+}
+
+.keep-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 12px;
+  width: 25%;
+}
