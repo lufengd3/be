@@ -1,11 +1,12 @@
+
+.conf-group {
+  margin-bottom: 20px;
+}
+
 .editor-container {
   background-color: #f8f8f8;
   width: 25%;
   padding: 12px;
-}
-
-.conf-group {
-  margin-bottom: 20px;
 }
 
 .keep-bottom {
